@@ -12,7 +12,7 @@ Aplikasi web interaktif untuk melakukan tes minat bakat berdasarkan metode **Rot
 
 Hasil tes disajikan dalam bentuk grafik, tabel skoring detail, dan deskripsi mendalam mengenai area minat yang paling menonjol, serta disimpan dalam database untuk dapat dilihat kembali di kemudian hari.
 
-![img alt](image alt][https://github.com/AhmdMaulidan/Web-Tes-RMIB/blob/bd11bb254f4d61489a6cb15b49fff41786382651/img%20example.png)
+![image alt](https://github.com/AhmdMaulidan/Web-Tes-RMIB/blob/bd11bb254f4d61489a6cb15b49fff41786382651/img%20example.png)
 
 ---
 
