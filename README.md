@@ -98,6 +98,9 @@ File konfigurasi database berada di rmib-app/config/db.php. Pengaturan default s
 Aplikasi siap digunakan!
 
 ### 🏛️ Struktur Proyek
+<pre lang="markdown">
+
+```
 rmib-app/
 │
 ├── admin/
@@ -122,7 +125,11 @@ rmib-app/
 │   └── sidebar.php             # Template sidebar
 │
 ├── index.php                   # Halaman utama aplikasi
-└── README.md                   # File ini
+└── README.md                   # Dokumentasi proyek
+```
+
+</pre>
+
 
 ### 💡 Kontribusi
 Kontribusi dalam bentuk pull request, laporan bug, atau saran fitur sangat diterima. Silakan buat issue terlebih dahulu untuk mendiskusikan perubahan yang ingin Anda buat.
