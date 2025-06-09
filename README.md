@@ -70,6 +70,9 @@ Jika Anda mengunduh sebagai file ZIP, ekstrak isinya ke dalam folder htdocs dan 
  4. Pilih database rmib_app yang baru dibuat, lalu buka tab SQL.
  5. Salin dan tempelkan query di bawah ini, lalu klik Go untuk membuat tabel test_results.
 
+<pre lang="markdown">
+
+```sql
 CREATE TABLE `test_results` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `user_name` varchar(255) NOT NULL,
@@ -82,6 +85,10 @@ CREATE TABLE `test_results` (
   `favorite_jobs` longtext CHARACTER SET utf8mb4 COLLATE utf8mb4_bin NOT NULL CHECK (json_valid(`favorite_jobs`)),
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+```
+
+</pre>
+
 
 ### 3. Konfigurasi Koneksi
 File konfigurasi database berada di rmib-app/config/db.php. Pengaturan default sudah disesuaikan untuk XAMPP standar (user: root, password: ""). Jika konfigurasi XAMPP Anda berbeda, silakan sesuaikan file ini.
