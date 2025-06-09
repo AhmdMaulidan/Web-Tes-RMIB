@@ -72,7 +72,6 @@ Jika Anda mengunduh sebagai file ZIP, ekstrak isinya ke dalam folder htdocs dan 
 
 <pre lang="markdown">
 
-```sql
 CREATE TABLE `test_results` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `user_name` varchar(255) NOT NULL,
@@ -85,7 +84,6 @@ CREATE TABLE `test_results` (
   `favorite_jobs` longtext CHARACTER SET utf8mb4 COLLATE utf8mb4_bin NOT NULL CHECK (json_valid(`favorite_jobs`)),
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-```
 
 </pre>
 
