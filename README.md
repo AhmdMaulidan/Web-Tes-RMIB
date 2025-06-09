@@ -1,4 +1,4 @@
-# Aplikasi Tes Minat RMIB Interaktif
+# 🕵Aplikasi Tes Minat RMIB Interaktif
 
 ###### Ini adalah Project pribadi Ahmad Maulidan, Guna memenuhi Ujian Tengah Semester Mata Kuliah Interaksi Manusia dan Komputer, 10 Juni 2025, Ilmu Komputer, Universitas Lambung Mangkurat
 
