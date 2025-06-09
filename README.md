@@ -135,13 +135,12 @@ rmib-app/
 Kontribusi dalam bentuk pull request, laporan bug, atau saran fitur sangat diterima. Silakan buat issue terlebih dahulu untuk mendiskusikan perubahan yang ingin Anda buat.
 
 ### 📄 Lisensi
-Proyek ini bisa digunakan secara bebas de ngan catatan harus contact saya terlebih dahulu 
-bisa melalui
+memakai website untuk tujuan pembelajaran dan pengembangan pribadi etc.
+Please Contact Me First!
 whatsApp: 085157871779
 Instagram @lienidan
 email: ahmd.maulidann@gmail.com
 
-untuk tujuan pembelajaran dan pengembangan pribad
 
 
 
