@@ -136,6 +136,7 @@ Kontribusi dalam bentuk pull request, laporan bug, atau saran fitur sangat diter
 
 ### 📄 Lisensi
 memakai website untuk tujuan pembelajaran dan pengembangan pribadi etc.
+
 Please Contact Me First!
 whatsApp: 085157871779
 Instagram @lienidan
