@@ -38,7 +38,7 @@ Hasil tes disajikan dalam bentuk grafik, tabel skoring detail, dan deskripsi men
 -   **Lingkungan Pengembangan**:
     -   XAMPP (Apache, MySQL, PHP)
 
----
+----
 
 ## 🚀 Instalasi dan Cara Menjalankan
 
